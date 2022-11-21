@@ -47,7 +47,8 @@ python3 app.py
 sudo firewall-cmd --add-port=5000/tcp
 ```
 
-4- Now you can access the documentation of the API via http://<ip>:5000/ .
+4- Now you can access the documentation of the API via http://your-ip:5000/ .
   
  Note: The API documentation is protected using Basic Authentication . the credentials are admin:admin
+ Note: The API documentation is in the home page .
   
